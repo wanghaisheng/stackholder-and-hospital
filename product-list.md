@@ -11,3 +11,6 @@
 
 
 SuiteCRM - Open source CRM for the world
+
+http://demo.crmeb.net/admin/index/index.html
+wukong crm
