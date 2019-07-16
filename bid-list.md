@@ -25,7 +25,7 @@ http://www.ccgp-hainan.gov.cn/zhuzhan/
 www.hainan.gov.cn/was5/search/rollnews.jsp
 
 # ================广  东================ #
-
+http://www.gdgpo.gov.cn/
 
 # ================云  南================ #
 
