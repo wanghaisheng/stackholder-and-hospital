@@ -2,7 +2,9 @@
 hit供应商以及医院所选择的系统供应商
 
 
-泰州市公共资源交易平台姜堰站
+
+http://ggzy.sheic.org.cn/#/main/transaction
+
 
 http://search.ccgp.gov.cn/bxsearch?searchtype=1&page_index=2&bidSort=0&buyerName=&projectId=&pinMu=0&bidType=1&dbselect=bidx&kw=%E5%8C%BB%E9%99%A2+&start_time=2019%3A01%3A01&end_time=2019%3A07%3A11&timeType=6&displayZone=&zoneId=&pppStatus=0&agentName=
 
